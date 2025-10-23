@@ -11,7 +11,7 @@ DuplicateFinder
 - Прогресс-бар и пауза сканирования
 
 ## Как использовать
-1. Скачай `duplicate_finder.exe` из релизов
+1. Скачай duplicate_finder.exe
 2. Запусти программу
 3. Выбери папку для сканирования (например, "Загрузки")
 4. Нажми "СКАНИРОВАТЬ ДИСК"
@@ -20,6 +20,3 @@ DuplicateFinder
 ## Требования
 - Windows 10/11
 - .NET Framework (обычно уже установлен)
-## Скачать
-- [duplicate_finder.exe](duplicate_finder.exe) — готовый исполняемый файл
-- [Исходный код](duplicate_finder.py) — для разработчиков
